@@ -25,13 +25,3 @@ span.control-label {
     margin-bottom: 5px;
     font-weight: 700;
 }
-
-.form-group.submit-group {
-    text-align: center;
-    margin-top: 40px;
-}
-
-#submit {
-    padding: 10px 20px;
-    font-size: 24px;
-}
